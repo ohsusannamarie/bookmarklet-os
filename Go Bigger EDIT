@@ -1,0 +1,13 @@
+if (document.designMode === "on") {
+  document.designMode = "off";
+  document.body.contentEditable = "false";
+} else {
+  document.body.contentEditable = "true";
+  document.designMode = "on";
+}
+completion();
+
+alert("Edit Mode Activated");
+
+navigator.clipboard.writeText(document.documentElement.outerHTML);
+alert("Page HTML copied to clipboard!");
