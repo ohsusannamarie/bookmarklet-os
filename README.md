@@ -109,3 +109,46 @@ No frameworks. No dependencies. No nonsense.
 ---
 
 ## 📦 Repo Structure
+
+/bookmarklet-os
+
+├── Susanna_Bookmarklet_OS.html
+
+├── /assets
+
+│ └── demo.gif
+
+├── /data
+
+│ └── bookmarklets.xlsx
+
+└── README.md
+
+---
+
+## 🔥 Keywords (for search)
+
+bookmarklet manager, bookmarklet library, bookmarklet collection, bookmarklet launcher, sourcing tools, recruiter tools, talent sourcing, LinkedIn sourcing, X-ray search, OSINT tools, browser automation, productivity tools, JavaScript bookmarklets, research tools, data extraction tools
+
+---
+
+## 🧠 Philosophy
+
+This isn’t just a list of tools.
+
+It’s:
+- A **bookmarklet operating system**
+- A **workflow engine for sourcing**
+- A way to **reduce friction and move faster**
+
+Organized chaos > raw chaos.
+
+---
+
+## ⭐ If This Helps You
+
+Star the repo.  
+Fork it.  
+Make it your own.
+
+Or just quietly become 10x faster. That works too.
