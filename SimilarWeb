@@ -1,1 +1,0 @@
-javascript:(function()%7Bwindow.open(%27http://www.similarweb.com/website/%27%2Bwindow.location.host)%3B%7D)()%3B
