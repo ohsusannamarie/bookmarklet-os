@@ -1,1 +1,0 @@
-javascript:(function()%7B                                var n = 'mdm_bookmarklet';var s = document.getElementById(n);if(s)%7Bdocument.body.removeChild(s);%7Dvoid(s = document.createElement('script'));s.src = 'https://bphogan.com/markdownmark/loader.html';s.type = 'text/javascript';s.id = n;document.body.appendChild(s);                               %7D)();
