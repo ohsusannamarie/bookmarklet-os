@@ -111,17 +111,11 @@ No frameworks. No dependencies. No nonsense.
 ## 📦 Repo Structure
 
 /bookmarklet-os
-
 ├── Susanna_Bookmarklet_OS.html
-
 ├── /assets
-
 │ └── demo.gif
-
 ├── /data
-
 │ └── bookmarklets.xlsx
-
 └── README.md
 
 ---
