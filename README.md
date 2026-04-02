@@ -108,18 +108,6 @@ No frameworks. No dependencies. No nonsense.
 
 ---
 
-## 📦 Repo Structure
-
-/bookmarklet-os
-├── Susanna_Bookmarklet_OS.html
-├── /assets
-│ └── demo.gif
-├── /data
-│ └── bookmarklets.xlsx
-└── README.md
-
----
-
 ## 🔥 Keywords (for search)
 
 bookmarklet manager, bookmarklet library, bookmarklet collection, bookmarklet launcher, sourcing tools, recruiter tools, talent sourcing, LinkedIn sourcing, X-ray search, OSINT tools, browser automation, productivity tools, JavaScript bookmarklets, research tools, data extraction tools
