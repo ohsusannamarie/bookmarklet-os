@@ -1,1 +1,0 @@
-javascript:(function()%7B(function%20()%20%7Bvar%20i,%20elements%20%3D%20document.querySelectorAll(%22body%20*%22)%3Bfor%20(i%20%3D%200%3B%20i%20%3C%20elements.length%3B%20i%2B%2B)%20%7Bif%20(getComputedStyle(elements%5Bi%5D).position%20%3D%3D%3D%20%22fixed%22)%20%7Belements%5Bi%5D.parentNode.removeChild(elements%5Bi%5D)%3B%7D%7D%7D)()%7D)()
