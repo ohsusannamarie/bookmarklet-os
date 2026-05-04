@@ -1,61 +1,69 @@
-# 🧠 Susanna’s Bookmarklet OS
+# 🔖 Bookmarklet Command Center
 
-**All your bookmarklets. Zero chaos. Mild gremlin energy - fully operational.**
+**475 bookmarklets. One file. Zero chaos. Fully operational.**
 
-A fast, searchable, filterable **bookmarklet manager and launcher** built for **talent sourcers, recruiters, OSINT researchers, and power users**.
+A fast, searchable, filterable **bookmarklet command center** built for **talent sourcers, recruiters, OSINT researchers, and power users** who refuse to let their browser toolbar become a graveyard.
 
-Organize, search, and run hundreds of bookmarklets instantly - without extensions, tab chaos, or workflow friction.
+Organize, search, and run hundreds of bookmarklets instantly — without extensions, tab chaos, or "wait, where did I put that one."
 
 ---
 
 ## 🔍 What Is This?
 
-Susanna’s Bookmarklet OS is a **browser-based bookmarklet toolkit** that helps you:
+The Bookmarklet Command Center is a **single-file browser app** that turns your bookmarklet collection into an actual system. It helps you:
 
-- Manage bookmarklets in one place
-- Search bookmarklets instantly (fuzzy search)
-- Filter by **category** and **intent**
-- Save favorites and pin your daily tools
-- Track recents and most-used bookmarklets
-- Copy bookmarklet code or prompts instantly
+- Search 475 bookmarklets instantly (fuzzy search across names, tags, and descriptions)
+- Filter by **category**, **intent**, **complexity**, and **where it works**
+- Save favorites ⭐ and pin your active tools 📌
+- Track recents and most-used so your workflow surfaces itself
+- Annotate bookmarklets with personal notes
+- Export your library to CSV or generate a shareable micro-site
 
-👉 Think: **bookmarklet library + search engine + workflow system**
+👉 Think: **bookmarklet library + search engine + workflow OS**
 
 ---
 
-## 🚀 Key Features
+## 🚀 How to Use It
 
-### ⚡ Bookmarklet Manager
-Organize and launch hundreds of bookmarklets from a single interface.
+👉 **[Open the live app](https://ohsusannamarie.github.io/bookmarklet-os)**
 
-### 🔎 Instant Bookmarklet Search
-Quickly find tools using fuzzy search across names, tags, and descriptions.
+Or download [`index.html`](./index.html) and open it locally — works on `file://` too.
 
-### 🧠 Intent-Based Filtering
-Filter bookmarklets by action:
-- Find 🔍
-- Research 🧠
-- Extract 📥
-- Analyze 📊
-- Clean 🧹
-- Outreach ✉️
-- Export 💾
+1. Open the app
+2. Search, filter, and find what you need
+3. Drag any bookmarklet to your bookmarks bar to install it
+4. Click it on any page to run it
+
+No extensions. No login. No nonsense.
+
+---
+
+## ⚡ Key Features
+
+### 🔎 Instant Search + Command Palette
+Fuzzy search across every bookmarklet name, tag, and description. Hit `/` for the command palette — keyboard-first navigation for when you're moving fast.
 
 ### 🗂️ Categories
-- 🔍 Source  
-- 🧠 Research  
-- 📊 Market Intelligence  
-- ✉️ Outreach  
-- ⚡ Utilities  
+- 🔍 **Source** — LinkedIn X-Ray, GitHub search, boolean builders, profile expanders
+- 🧠 **Research** — OSINT, Wayback Machine, company intel, domain lookups
+- 📊 **Market Intelligence** — hiring signals, org charts, competitive research
+- ✉️ **Outreach** — contact finders, email extractors, messaging helpers
+- ⚡ **Utilities** — page tools, link extractors, video speed, tab killers, dark mode
 
-### ⭐ Favorites & 📌 Pinned Tools
-Save and prioritize frequently used bookmarklets.
+### ⭐ Favorites & 📌 Active Tools
+Star what matters. Pin what you're using right now. Your toolbar, your rules.
 
-### 🕘 Recents & 📈 Most Used
-Track usage and build faster workflows over time.
+### 🕘 Recents & Usage Tracking
+Surfaces what you actually use — not just what you thought you'd use when you saved it three months ago.
 
-### 📋 Copy Bookmarklet Code
-Copy bookmarklet JavaScript or prompts without opening new tabs.
+### 📋 Copy Code Instantly
+Grab bookmarklet JavaScript or prompt text without opening new tabs.
+
+### 🗃️ Buckets, Collections & Annotations
+Group bookmarklets into custom sets. Add notes to anything. Build workflows, not just lists.
+
+### 💾 Export Everything
+CSV export your full library or just your favorites. Generate a shareable micro-site for any collection.
 
 ---
 
@@ -64,66 +72,38 @@ Copy bookmarklet JavaScript or prompts without opening new tabs.
 Perfect for:
 
 - **Talent sourcing & recruiting**
-- **LinkedIn X-Ray search**
-- **Google X-Ray search**
-- **OSINT (open-source intelligence)**
+- **LinkedIn X-Ray & boolean search**
+- **OSINT investigations**
 - **Competitive research & market intelligence**
 - **Data extraction & scraping workflows**
-- **Outreach and messaging workflows**
-- **Productivity automation**
-
----
-
-## 🧪 How to Use Bookmarklets
-
-1. Download the HTML file  
-2. Open it in your browser  
-3. Drag a bookmarklet button to your bookmarks bar  
-4. Click to run on any page  
-
-No installation required.
-
----
-
-## 🧠 Why This Exists
-
-Bookmarklets are powerful… but:
-
-- Hard to organize  
-- Easy to forget  
-- Scattered across bookmarks  
-- Buried in docs or notes  
-
-This turns bookmarklets into a **structured, searchable system**.
+- **Outreach automation**
+- **Any browser-heavy workflow where you need to move fast**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML (single-file app)
+- HTML (single-file app — the whole thing is one file)
 - Vanilla JavaScript
-- Local storage (favorites, recents, usage tracking)
+- localStorage (favorites, pins, recents, usage tracking, annotations)
 
-No frameworks. No dependencies. No nonsense.
-
----
-
-## 🔥 Keywords (for search)
-
-bookmarklet manager, bookmarklet library, bookmarklet collection, bookmarklet launcher, sourcing tools, recruiter tools, talent sourcing, LinkedIn sourcing, X-ray search, OSINT tools, browser automation, productivity tools, JavaScript bookmarklets, research tools, data extraction tools
+No frameworks. No build step. No server. Just open it and go.
 
 ---
 
-## 🧠 Philosophy
+## 🧠 Why This Exists
 
-This isn’t just a list of tools.
+Bookmarklets are genuinely powerful. Fast, portable, no infrastructure required. The problem isn't the tools — it's that they end up scattered across bookmark folders, Google docs, Slack messages, and that one note you can never find.
 
-It’s:
-- A **bookmarklet operating system**
-- A **workflow engine for sourcing**
-- A way to **reduce friction and move faster**
+This turns a pile of tools into a **structured, searchable system**.
 
-Organized chaos > raw chaos.
+Organized chaos \> raw chaos.
+
+---
+
+## 🔥 Keywords
+
+bookmarklet manager, bookmarklet command center, bookmarklet library, sourcing tools, recruiter tools, talent sourcing, LinkedIn sourcing, X-ray search, OSINT tools, browser automation, productivity tools, JavaScript bookmarklets, research tools, data extraction, talent intelligence
 
 ---
 
