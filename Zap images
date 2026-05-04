@@ -1,1 +1,0 @@
-javascript:(function()%7Bfunction toArray (c)%7Bvar a, k%3Ba%3Dnew Array%3Bfor (k%3D0%3B k < c.length%3B %2B%2Bk)a%5Bk%5D%3Dc%5Bk%5D%3Breturn a%3B%7Dvar images, img, altText%3Bimages%3DtoArray(document.images)%3Bfor (var i%3D0%3B i < images.length%3B %2B%2Bi)%7Bimg%3Dimages%5Bi%5D%3BaltText%3Ddocument.createTextNode(img.alt)%3Bimg.parentNode.replaceChild(altText, img)%7D%7D)()%3B
