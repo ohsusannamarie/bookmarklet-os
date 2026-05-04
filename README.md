@@ -12,7 +12,7 @@ Organize, search, and run hundreds of bookmarklets instantly — without extensi
 
 The Bookmarklet Command Center is a **single-file browser app** that turns your bookmarklet collection into an actual system. It helps you:
 
-- Search 475 bookmarklets instantly (fuzzy search across names, tags, and descriptions)
+- Search 475 bookmarklets instantly (fuzzy search, regex, or natural language)
 - Filter by **category**, **intent**, **complexity**, and **where it works**
 - Save favorites ⭐ and pin your active tools 📌
 - Track recents and most-used so your workflow surfaces itself
@@ -41,14 +41,17 @@ No extensions. No login. No nonsense.
 ## ⚡ Key Features
 
 ### 🔎 Instant Search + Command Palette
-Fuzzy search across every bookmarklet name, tag, and description. Hit `/` for the command palette — keyboard-first navigation for when you're moving fast.
+Fuzzy search, regex mode, and natural language search across every bookmarklet name, tag, and description. Hit `/` for the command palette — keyboard-first navigation for when you're moving fast.
 
 ### 🗂️ Categories
-- 🔍 **Source** — LinkedIn X-Ray, GitHub search, boolean builders, profile expanders
-- 🧠 **Research** — OSINT, Wayback Machine, company intel, domain lookups
-- 📊 **Market Intelligence** — hiring signals, org charts, competitive research
-- ✉️ **Outreach** — contact finders, email extractors, messaging helpers
-- ⚡ **Utilities** — page tools, link extractors, video speed, tab killers, dark mode
+- ⚡ **Productivity Hacks** — tab management, clipboard tools, page speed, form helpers
+- 🔗 **Links / SEO** — link extractors, URL tools, SERP helpers, redirects
+- 🛠️ **Dev / GitHub** — GitHub profile tools, code helpers, dev utilities
+- 🤖 **AI / Automation** — AI-powered sourcing, ChatGPT helpers, automation scripts
+- 🧰 **Page Utilities** — accessibility tools, layout tweaks, reader mode, dark mode injectors
+- 🚫 **Ad Blocking / Cleanup** — paywall busters, cookie banners, clutter removal
+- 🎬 **Media Tools** — video speed controls, image tools, download helpers
+- 🎮 **Fun & Games** — interactive effects, novelty scripts
 
 ### ⭐ Favorites & 📌 Active Tools
 Star what matters. Pin what you're using right now. Your toolbar, your rules.
@@ -62,8 +65,14 @@ Grab bookmarklet JavaScript or prompt text without opening new tabs.
 ### 🗃️ Buckets, Collections & Annotations
 Group bookmarklets into custom sets. Add notes to anything. Build workflows, not just lists.
 
+### 🌙 Dark Mode + Display Options
+Full dark/light theme toggle. Compact, default, or cozy density. Icon-only grid for power users. Focus mode strips the UI down to just the results.
+
+### 🧠 AI Persona Mode
+Surface bookmarklets by workflow persona — pick your role and get a curated tool set matched to how you actually work.
+
 ### 💾 Export Everything
-CSV export your full library or just your favorites. Generate a shareable micro-site for any collection.
+CSV export your full library or just your favorites. Generate a shareable micro-site for any collection. Print view included.
 
 ---
 
