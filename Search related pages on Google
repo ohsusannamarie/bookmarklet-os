@@ -1,1 +1,0 @@
-javascript:(function()%7Bdocument.location.href='https://www.google.com/search?q=related:%27+escape(document.location.href);%7D)();
