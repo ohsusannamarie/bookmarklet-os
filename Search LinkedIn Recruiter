@@ -1,1 +1,0 @@
-javascript:q = '' + (window.getSelection ? window.getSelection() : document.getSelection ? document.getSelection() : document.selection.createRange().text); if (!q) q = prompt(%27Enter your search here%27, %27%27); if (q!=null) location=%27https://www.linkedin.com/talent/search?searchKeyword=%27 + escape(q).replace(/ /g, %27+%27)+%27&num=10%27; void 0
