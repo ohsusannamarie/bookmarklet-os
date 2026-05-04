@@ -1,1 +1,0 @@
-javascript:window.scrollTo(0, document.body.scrollHeight %7C%7C document.documentElement.scrollHeight)%3B
